@@ -51,7 +51,31 @@ table {
 /* Main Styles */
 
 #main-wrapper {
-  /* to do */
+	width: 700px;
+	font-size: 20px;
 }
 
+#main-wrapper .content-snippet {
+	overflow: auto;
+	margin-bottom: 30px;
+	width: 600px;
+	height: 110px;
+}
+
+#main-wrapper .content-icon {
+	width: 80px;
+	height: 80px;
+	position: relative;
+	top: 10px;
+}
+
+#main-wrapper p {
+	display: inline-block;
+}
+
+#main-wrapper .content-text {
+	position: relative;
+	top: 5px;
+	width: 500px;
+}
 
