@@ -54,4 +54,11 @@ body {
   /* to do */
 }
 
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
 
