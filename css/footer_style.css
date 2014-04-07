@@ -49,9 +49,17 @@ table {
 }
 
 /* Footer Styles */
-
 #footer-wrapper {
-  /* to do */
+    background: #303030;
+    color: white;
+    z-index: 10;
+    width: 100%;
+}
+#footer-content {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
 }
 
 
